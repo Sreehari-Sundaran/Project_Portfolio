@@ -2,7 +2,7 @@
 
 Welcome to my GitHub project portfolio. Here, real-world projects that delve deeper into the world of data analytics are showcased.
 
-## Contents 📝
+## [CONTENTS](#contents) 📝
 
 - [SQL](#sql)
 - [Excel](#excel)
@@ -15,10 +15,10 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 Under Process
 
 ## Excel
-
-| S.No | Project Name | Description | Tools Used |
+<-back to CONTENTS
+| S.No | Project Name | Description | Tools Used ⚒️ |
 |--|---------------|----------|------------|
-| 1 | <a href="(https://github.com/lionheartsss1997/School-Data-Set-Excel-)"> School Data Set Case Study </a><br></li>| Cleaning,Sorting and Transforming data of school register |basic excel functions like Sumif, Countif, Average, Formatting the data, Concatenate, Round, etc.|
+| 1 | <a href="https://github.com/lionheartsss1997/School-Data-Set-Excel-">School Data Set Case Study 📚 </a><br>| Cleaning,Sorting and Transforming data of school register |basic excel functions like Sumif, Countif, Average, Formatting the data, Concatenate, Round, etc.|
 | 2 |  |  | |
 | 3 |  |  | |
 
