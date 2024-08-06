@@ -9,7 +9,7 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 - [Python](#python)
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
-
+- [Contact](#contact)
 ## SQL 
 
 Under Process
@@ -33,3 +33,10 @@ Under Process
 ## Tableau
 
 Under Process
+
+## Contact
+
+*  <a href="https://sreeharisundaran@gmail.com7/">Email</a><br>
+* <a href="https://www.linkedin.com/in/sreeharisundaran97/">Linkedln</a><br>
+
+
