@@ -36,7 +36,7 @@ Under Process
 
 ## Contact
 
-*  <a href="https://sreeharisundaran@gmail.com7/">Email</a><br>
+*  [Gmail](mailto:sreeharisundaran@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 * <a href="https://www.linkedin.com/in/sreeharisundaran97/">Linkedln</a><br>
 
 
