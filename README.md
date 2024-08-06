@@ -16,7 +16,7 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 
 ## SQL
 
-Details about SQL projects go here.
+Under Process
 
 ## Excel
 
@@ -24,12 +24,12 @@ Details about Excel projects go here.
 
 ## Python
 
-Details about Python projects go here.
+Under Process
 
 ## Power BI
 
-Details about Power BI projects go here.
+Under Process
 
 ## Tableau
 
-Details about Tableau projects go here.
+Under Process
