@@ -2,17 +2,34 @@
 
 Welcome to my GitHub project portfolio. Here, real-world projects that delve deeper into the world of data analytics are showcased.
 
-<h2>CONTENTS📝</h2>
-<ul>
-  <li><a href="#sql">SQL</a></li>
-   <li><a href="#python">Python</a></li>
-   <li><a href="#powerbi">Power BI</a></li>
-   <li><a href="#tableau">Tableau</a></li>
-</ul>
-<h1><a name="sql">SQL</a></h1>
- 
-<h1><a name="python">Python</a></h1>
+# Portfolio - Sreehari Sundaran
 
-<h1><a name="powerbi">Power BI</a></h1>
+Welcome to my GitHub project portfolio. Here, real-world projects that delve deeper into the world of data analytics are showcased.
 
-<h1><a name="tableau">Tableau</a></h1>
+## Contents 📝
+
+- [SQL](#sql)
+- [Excel](#excel)
+- [Python](#python)
+- [Power BI](#power-bi)
+- [Tableau](#tableau)
+
+## SQL
+
+Details about SQL projects go here.
+
+## Excel
+
+Details about Excel projects go here.
+
+## Python
+
+Details about Python projects go here.
+
+## Power BI
+
+Details about Power BI projects go here.
+
+## Tableau
+
+Details about Tableau projects go here.
