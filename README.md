@@ -24,7 +24,13 @@ Under Process
 
 ## Python
 
-Under Process
+[🔝 back to top](#top)
+| S.No | Project Name | Description | Tools Used ⚒️ |
+|------|--------------|-------------|----------------|
+| 1 | [Three Cup Monte Game](https://github.com/lionheartsss1997/three_cup_monte)| Accepting User Input and Analysing with list data |Methods,Functions and Interaction between Functions |
+| 2 |  |  |  |
+| 3 |  |  |  |
+
 
 ## Power BI
 
