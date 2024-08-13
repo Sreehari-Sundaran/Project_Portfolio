@@ -1,9 +1,9 @@
 # Portfolio - Sreehari Sundaran
 
 Welcome to my GitHub project portfolio. Here, real-world projects that delve deeper into the world of data analytics are showcased.
-
-## CONTENTS📝
 <a name="top"></a>
+## CONTENTS📝
+
 - [SQL](#sql)
 - [Excel](#excel)
 - [Python](#python)
