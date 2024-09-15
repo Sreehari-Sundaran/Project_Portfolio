@@ -16,8 +16,9 @@ Welcome to my GitHub project portfolio. Here, real-world projects that delve dee
 [🔝 back to top](#top)
 | S.No | Project Link | Description | Tools Used ⚒️ |
 |------|--------------|-------------|----------------|
-| 1 | [Airbnb Top 500(India)🏨](https://github.com/lionheartsss1997/AirBnB_Top500_analysis) ![Real World Project](https://img.shields.io/badge/real%20world%20project-8A2BE2)| Inital raw data set was cleansed and transormed into csv file using python followed by visualisation | Python(Pandas,Pyplot,Folium) |
-| 2 | [Three Cup Monte Game](https://github.com/lionheartsss1997/three_cup_monte) ![Real World Project](https://img.shields.io/badge/guided%20project-8A2BE2)| Accepting User Input and Analysing with list data |Methods,Functions and Interaction between Functions |
+| 1 | [American Express User Exit Prediction 🏦](https://github.com/Sreehari-Sundaran/American-Express-User-Exit-Data-Analytics) ![Real World Project](https://img.shields.io/badge/real%20world%20project-8A2BE2)| Inital raw data set was cleansed and transormed into csv file using python followed by visualisation | Python(Pandas,Pyplot,Folium,sklearn,Numpy),Logistic Regression,Random Forest model,Gradient Boosting Model |
+| 2 | [Airbnb Top 500(India)🏨](https://github.com/lionheartsss1997/AirBnB_Top500_analysis) ![Real World Project](https://img.shields.io/badge/real%20world%20project-8A2BE2)| Inital raw data set was cleansed and transormed into csv file using python followed by visualisation | Python(Pandas,Pyplot,Folium) |
+
 ## Statistics
 [🔝 back to top](#top)
 | S.No | Project Link | Description | Tools Used ⚒️ |
